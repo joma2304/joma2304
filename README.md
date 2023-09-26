@@ -2,6 +2,7 @@
 
 ## Johan heter jag och är 25 år gammal. Jag studerar webbutveckling vid Mittuniversitetet. 
 
-### Detta repository kommer att användas under min studietid.
+### Kontakt
+#### joma2304@student.miun.se
 
 
