@@ -3,5 +3,5 @@
 
 ### Kontakt
 - jo.han98@hotmail.com
-
+- [LinkedIn](https://www.linkedin.com/in/johan-magnusson-7a9813299/) 
 
